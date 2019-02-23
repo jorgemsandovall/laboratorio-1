@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Wcfaritn.srvSuma" CodeBehind="srvSuma.svc.cs" %>
